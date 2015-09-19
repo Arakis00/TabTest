@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Arakis00\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Arakis00\AndroidStudioProjects\TabTest\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-537b666fbebd6fb2f229ca917763115f92dc290f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Arakis00\AndroidStudioProjects\TabTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Arakis00\AndroidStudioProjects\TabTest\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-1ef0fad16f2c8a85f795322fa95cf3f8415bf082.jar" />
+    </item>
+    <item
+        jar="C:\Users\Arakis00\AndroidStudioProjects\TabTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Arakis00\AndroidStudioProjects\TabTest\app\build\intermediates\pre-dexed\debug\classes-9c0eb7bf8894bc6e404e807518d095bc4e7cbfe0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Arakis00\AndroidStudioProjects\TabTest\app\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="C:\Users\Arakis00\AndroidStudioProjects\TabTest\app\build\intermediates\pre-dexed\debug\classes-d4629283bb03627759e0186e2bdb33f09e9a0c1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Arakis00\AndroidStudioProjects\TabTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Arakis00\AndroidStudioProjects\TabTest\app\build\intermediates\pre-dexed\debug\classes-9d0243b9ad1cff7d6c24fbb4e22214aa2a3ce126.jar" />
+    </item>
+
+</items>
