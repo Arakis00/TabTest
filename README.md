@@ -2,7 +2,7 @@
 This is a template for a tabbed application with fragments within Android Studio.
 
 # Notes
-I went to make my first new Android application in quite some time and found out that the plugin for Eclipse is no longer officially supported, so I'm moving to and learning Android Studio.
+I went to make my first new Android application in quite some time and found out that the plugin for Eclipse is no longer officially supported, so I'm moving to what is now officially supported, Android Studio.
 It turns out the way I used to create tabbed applications is now deprecated, so I made this simple template to help with starting future applications.
 
 # Troubleshooting
